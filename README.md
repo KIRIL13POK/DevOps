@@ -6,3 +6,6 @@ Este repositorio ha sido creado con el propósito de ayudarte a aprender y compr
 * [02. DevOps: Automatizacion](https://github.com/KIRIL13POK/DevOps/blob/main/Devops_Automatizacion.md)
 * [03. DevOps: Colaboracion](https://github.com/KIRIL13POK/DevOps/blob/main/Devops_Colaboracion.md)
 * [04. DevOps:Integracion Continua (CI) ](https://github.com/KIRIL13POK/DevOps/blob/main/Devops_IntegracionContinuaCI.md)
+* [05. DevOps: Entrega Continua (CD)]()
+* [06. DevOps: Monitoreo y Retroalimentación]()
+* [07. DevOps: Infraestructura como Código (IaC)]()
